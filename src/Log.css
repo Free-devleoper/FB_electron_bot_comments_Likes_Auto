@@ -1,0 +1,25 @@
+#log {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 30em;
+    height: 100%;
+    background-color: #00000099;
+    backdrop-filter: blur(4px);
+    color: #ffffff;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    margin-left: 1em;
+    padding:  0 2em 2em 2em;
+    font-size: .8em;
+    z-index: 100;
+}
+
+.report {
+    /* display: inline; */
+    /* margin-left: 2em; */
+    text-align: center;
+    line-height: 1;
+
+}
+
